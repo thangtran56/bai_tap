@@ -1,0 +1,71 @@
+body{
+    
+    margin-bottom: 100px;
+    text-align: center;
+    text-indent:inherit;
+    background: rgb(13,145,211);
+    background: linear-gradient(328deg, rgba(13,145,211,1) 0%, rgba(255,136,0,0.8379726890756303) 31%, rgba(206,163,0,1) 67%, rgba(39,255,0,0.8379726890756303) 87%);
+}
+h1{
+    color:black;
+}
+.link{
+    text-align: center;
+    margin: auto;
+    text-indent: initial;
+
+}
+a{
+    font-weight: 400;
+    font-family: cursive;
+    Text-decoration: none;
+}
+
+.dich_vu, .bao_cao, .giai_tri, .lien_lac{
+    font-family: cursive;
+    font-size: 50px;
+    color:  darkmagenta;
+
+}
+.nga_ucra{
+   font-style: italic;
+  color: antiquewhite;
+    font-size: 20px;
+    font-weight: 900;
+    text-shadow: 0 0 10px gainsboro;
+    font-family: serif;
+    line-height: 100px;
+}
+ul{
+    list-style: none;
+}
+table{
+    text-align: center;
+    margin: auto;     
+}
+.than_bang{
+    font-size: 1000px;
+    font-family: cursive;
+}
+.lien_lac{
+    line-height: 100px;
+}
+
+.cuoi{
+    color: blue;
+    font-style: italic;
+    font-family: Lucida Grande;
+
+}
+.noi_dung{
+    color: blue;
+   text-align: justify;
+}
+.luong{
+    color: black;
+}
+.red{
+    color:brown;
+}
+
+
